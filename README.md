@@ -1,4 +1,4 @@
-# CEPManager
+# SpringApp - CEPManager
 Usando a API de CEP, busca CEPS e salva no banco de dados local MySQL
 Tem duas partes:  
 - aplicação javascript que é o front, onde o usuário pesquisa CEPS e envia requisições POST para salvar no servidor  
